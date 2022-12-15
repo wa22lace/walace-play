@@ -1,0 +1,40 @@
+body{
+
+    background-color: black;
+}
+h1{
+    font-size: auto;
+    color: white;
+}
+.menuprincipal{
+    text-align: center;
+    padding: 10px;
+    background-image: url(meuamor.jpeg)  ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; /* podemos ajustar*/
+    background-position: fixed;
+    font-size: auto;
+    border-radius: 40px;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+main{
+    min-width: auto;
+    min-height: auto;
+}
+video{
+min-width: 200px;
+max-width: 500px;
+font-size: auto;
+
+}
+.declaraçao{
+    height: auto;
+    
+}
+footer{
+    font-size: auto;
+    text-align: center;
+}
