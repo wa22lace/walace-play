@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+h1{
+    color: white;
+}
+main{
+    background-color: green;
+    border-radius: 20px;
+    
+}
