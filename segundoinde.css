@@ -14,13 +14,64 @@ main{
     font-size:auto;
     
 }
+.container{
+    margin: auto;
+    max-width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.foto1 {
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+ }
+ .foto2 {
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+
+ }
+ .foto3 {
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+
+ }
+ .foto4 {
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+
+ }
+ .foto5 {
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+
+ }
+
 audio{
-    background-color: blue;
     font-size: auto;
     text-align: center;
 }
 .audio01{ 
-    background-color: rgb(170, 6, 189);
+    background-color: rgb(70, 6, 189);
     text-align: end;
     margin: auto;
     width: 60%;
@@ -39,12 +90,20 @@ audio{
 
 }
 .audio03{
-    background-color: black;
-
+  background-color: rgb(170, 6, 189);
+    text-align: initial;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+    border-radius: 20px;
 
 }
 .audio04{
-    background-color: black;
-
+    background-color: rgb(170, 6, 189);
+    text-align: initial;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+    border-radius: 20px;
 
 }
