@@ -11,5 +11,40 @@ h1{
 main{
     background-color: green;
     border-radius: 20px;
+    font-size:auto;
     
+}
+audio{
+    background-color: blue;
+    font-size: auto;
+    text-align: center;
+}
+.audio01{ 
+    background-color: rgb(170, 6, 189);
+    text-align: end;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+    border-radius: 20px;
+
+  
+}
+.audio02{
+    background-color: rgb(170, 6, 189);
+    text-align: initial;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+    border-radius: 20px;
+
+}
+.audio03{
+    background-color: black;
+
+
+}
+.audio04{
+    background-color: black;
+
+
 }
